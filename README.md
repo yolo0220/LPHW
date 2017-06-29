@@ -1,5 +1,4 @@
 # LPHW
-Practice Learn Python the Hard Way
 
 ![깐깐하게 배우는 파이썬](http://www.insightbook.co.kr/wp-content/uploads/2014/09/%EA%B9%90%EA%B9%90_%ED%91%9C%EC%A7%80%EC%95%9E-219x300.jpg)
 
